@@ -75,7 +75,7 @@ body {
 }
 
 .bg-hero-pattern {
-  background-image: url("C:/Users/Ayesha Mulani/Desktop/Coding Stuff/techM/final-project/client/public/cool-background.png");
+  background-image: url("../public/cool-background.png");
   background-size: cover;
   background-position: center;
 }
